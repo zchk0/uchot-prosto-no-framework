@@ -39,7 +39,7 @@
             border-radius: 4px;
         }
         .item:hover {
-            background-color: #dedede;
+            background-color: #b3aeae;
         }
         .active {
             background-color: #b0c4de;
@@ -73,7 +73,7 @@
     <script>
         const knowledgeBase = {
             "Тема 1": {
-                "1.1": "Код реализации можно посмотреть тут  ",
+                "1.1": "Код реализации можно посмотреть тут <a href='https://github.com/zchk0/uchot-prosto-no-framework'>https://github.com/zchk0/uchot-prosto-no-framework</a>",
                 "1.2": "Содержимое для Подтемы, здесь может быть совсем другой текст."
             },
             "Тема 2": {
